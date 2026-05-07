@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack
 *   **Language**: Kotlin
 *   **UI Framework**: Jetpack Compose (Modern Declarative UI)
-*   **Backend**: Firebase (Authentication, Realtime Database)
+*   **Backend**: Nodejs, Firebase (Authentication, Realtime Database)
 *   **Maps**: Google Maps SDK for Android
 *   **Location**: Google Play Services (Fused Location Provider)
 *   **Architecture**: Activity-based with a centralized `BaseActivity` for global locale management.
@@ -52,7 +52,7 @@
 ---
 
 ## 👨‍💻 Developer
-**Lakshit Raina**  
+**Harsh Bagha**  
 *Building technology that makes travel safer for everyone.*
 
 ---
