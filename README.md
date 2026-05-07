@@ -39,18 +39,6 @@
 
 ---
 
-## 📸 Screenshots
-*(Coming Soon - Check the `screenshots` folder)*
-
----
-
-## 🚀 Getting Started
-1.  **Clone the Repo**: `git clone https://github.com/LakshitRaina/Smart-Tourist-Safety-Monitoring-and-Incident-Response-System.git`
-2.  **Add Firebase**: Place your `google-services.json` in the `app/` directory.
-3.  **Build**: Open in Android Studio and run on an emulator or physical device.
-
----
-
 ## 👨‍💻 Developer
 **Harsh Bagha**  
 *Building technology that makes travel safer for everyone.*
